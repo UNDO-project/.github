@@ -15,11 +15,11 @@
 
 UNDO is a research initiative working across **Denmark, Finland, and Sweden** to examine how data-driven technologies are reshaping policing and public order. The work combines three modes of inquiry:
 
-- **Empirical research** — qualitative study of police data infrastructures, predictive policing, and biometric systems
-- **Software** — open tools for documenting surveillance infrastructure and supporting counter-surveillance practice
-- **Documentary film** — work that traces how these systems operate and who they affect
+- **Empirical research**: qualitative study of police data infrastructures, predictive policing, and biometric systems
+- **Software**: open tools for documenting surveillance infrastructure and supporting counter-surveillance research
+- **Documentary film**: work that traces how these systems operate and who they affect
 
-We are critical of the speed and opacity with which many of these systems are deployed, but the work is grounded in how they actually function. The aim is to make their workings legible — to researchers, civil society, and the public — and to support the protection of civil rights as policing becomes more data-driven.
+We are critical of the speed and opacity with which many of these systems are deployed, but the work is grounded in how they actually function. The aim is to make their workings legible to researchers, civil society, and the public and to support the protection of civil rights as policing becomes more data-driven.
 
 ## In this organization
 
